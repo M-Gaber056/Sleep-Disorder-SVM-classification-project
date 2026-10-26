@@ -203,7 +203,7 @@ Make sure the dataset is available at the file path expected by the notebook.
 https://sleep-health-prediction-svm-app.streamlit.app/
 
 The Streamlit hosted app.
-Just click this link if you don't want to run it localy!
+Just click this link if you don't want to run it locally!
 
 ## Limitations
 
