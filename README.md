@@ -198,6 +198,11 @@ Make sure the dataset is available at the file path expected by the notebook.
 - **Streamlit** — interactive application interface
 - **Jupyter Notebook** — experimentation and analysis
 
+## Deployed Streamlit App
+
+https://sleep-health-prediction-svm-app.streamlit.app/
+Just click this link if you don't want to run it localy!
+
 ## Limitations
 
 - The model predicts `felt_rested`, not `sleep_disorder_risk` or `cognitive_performance_score`.
